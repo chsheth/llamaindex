@@ -7,3 +7,5 @@ streamlit
 llama-index-llms-gemini
 llama-index-embeddings-gemini
 Ipython
+langchain-community
+faiss-cpu
